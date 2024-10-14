@@ -32,6 +32,6 @@
   - [6.1. Catálogo de Aplicaciones](./6/6.1/6.1.md)
   - [6.2. Mapeo Aplicaciones vs Componentes](./6/6.2/6.2.md)
  
-#  Repos
+#  Repositorios
 - Backend Monorepo: https://github.com/AndreaLlerena2003/InStudio-Backend-monorepo
-- Frontend Repo: 
+- Frontend Repositorio : https://github.com/AndreaLlerena2003/FrontEnd-InStudio
