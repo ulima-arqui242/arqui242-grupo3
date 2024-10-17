@@ -35,3 +35,6 @@
 #  Repositorios
 - Backend Monorepo: https://github.com/AndreaLlerena2003/InStudio-Backend-monorepo
 - Frontend Repositorio : https://github.com/AndreaLlerena2003/FrontEnd-InStudio
+
+# Figma
+<https://www.figma.com/design/3rVlGE5KXCfJLWwFrCU0Lu/InStudio-Design?node-id=2102-42&node-type=canvas&t=8XaYaEf7sKeKwRBU-0>
